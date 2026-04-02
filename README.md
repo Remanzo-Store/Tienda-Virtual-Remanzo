@@ -1,9 +1,13 @@
-#  Remanso FarmaTech  
-**Solución inteligente para la gestión de medicamentos y atención al cliente**
-![Logo](./TRIMESTRE%201/2.%20COMPONENTE%20METODOLOGICO/logo.png)
+# 🏥 <span style="color: #e74c3c;">Remanso FarmaTech</span>  
+**<span style="color: #2c3e50;">Solución inteligente para la gestión de medicamentos y atención al cliente</span>**
+
+<div align="center">
+  <img src="./TRIMESTRE%201/2.%20COMPONENTE%20METODOLOGICO/logo.png" alt="Logo Remanso FarmaTech" width="120" style="border-radius: 8px;" />
+</div>
+
 ---
 
-## 📌 Introducción
+## <span style="color: #f59e0b;">📌 Introducción</span>
 
 En la actualidad, la transformación digital se ha convertido en un factor clave para la competitividad y sostenibilidad de las microempresas, especialmente en el sector comercial y farmacéutico. Muchas droguerías pequeñas aún gestionan sus procesos de inventario y ventas de forma manual, lo que genera dificultades en el control de productos, pérdidas por vencimientos y limitaciones en la atención al cliente.
 
@@ -15,7 +19,7 @@ Mediante esta solución, se busca automatizar el control de inventarios, facilit
 
 ---
 
-## 🧩 Nombre del Proyecto
+## <span style="color: #8b5cf6;">🧩 Nombre del Proyecto</span>
 
 **Desarrollo de un Sistema de Información para la Gestión de Inventario y Ventas en la Droguería Remansó**
 
@@ -24,7 +28,7 @@ Mediante esta solución, se busca automatizar el control de inventarios, facilit
 
 ---
 
-## ⚠️ 1. Planteamiento del Problema
+## <span style="color: #dc2626;">⚠️ 1. Planteamiento del Problema</span>
 
 La droguería Remansó representa un negocio microempresarial que opera de manera tradicional, donde las ventas se realizan únicamente de forma presencial y el control de inventario se lleva de forma manual o semiautomática. Estas condiciones generan problemas como:
 
@@ -37,13 +41,13 @@ Además, la ausencia de una plataforma digital impide a los clientes consultar p
 
 ---
 
-## ❓ 2. Pregunta Problema
+## <span style="color: #3b82f6;">❓ 2. Pregunta Problema</span>
 
 ¿Cómo desarrollar una plataforma web que permita transformar la gestión de inventario y ventas de la droguería Remansó, optimizando sus procesos administrativos y ampliando su alcance comercial?
 
 ---
 
-## 📖 3. Justificación
+## <span style="color: #059669;">📖 3. Justificación</span>
 
 El desarrollo de **Remanso FarmaTech** responde a la necesidad de implementar una solución tecnológica que contribuya a la modernización de la droguería Remansó, mejorando el control de inventarios, reduciendo errores manuales y optimizando la atención al cliente.
 
@@ -60,13 +64,13 @@ Asimismo, fortalece la transformación digital de una microempresa, mejorando su
 
 ---
 
-## 🎯 4. Objetivo General
+## <span style="color: #10b981;">🎯 4. Objetivo General</span>
 
 Desarrollar un sistema web para la droguería Remansó que permita gestionar el inventario y las ventas en línea, optimizando los procesos administrativos y mejorando la atención al cliente.
 
 ---
 
-## 🎯 5. Objetivos Específicos
+## <span style="color: #10b981;">🎯 5. Objetivos Específicos</span>
 
 - Diseñar el modelo de datos para productos, inventario y pedidos  
 - Desarrollar una interfaz web intuitiva para la compra de productos  
@@ -76,7 +80,7 @@ Desarrollar un sistema web para la droguería Remansó que permita gestionar el 
 
 ---
 
-## 📦 6. Alcance del Proyecto
+## <span style="color: #6366f1;">📦 6. Alcance del Proyecto</span>
 
 El sistema permitirá:
 
@@ -90,7 +94,7 @@ Está dirigido principalmente al personal administrativo, pero también permitir
 
 ---
 
-## 🚫 7. Limitaciones
+## <span style="color: #ef4444;">🚫 7. Limitaciones</span>
 
 ### 7.1 Alcance Funcional Incluido
 
