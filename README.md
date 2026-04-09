@@ -169,5 +169,9 @@ Está dirigido principalmente al personal administrativo, pero también permitir
 
 ## 🚀 12. Modelo BPMN
 
-![Modelo BPMN](./TRIMESTRE%201/3.%20BPMN/Modelo%20BPMN.jpg)
-  
+![Modelo BPMN](./TRIMESTRE%201/3.%20BPMN/Modelo%20BPMN.PNG)
+
+### Macroprocesos
+
+![MacroProceso 1](./TRIMESTRE%201/3.%20BPMN/MacroProceso%201.PNG)
+![MacroProceso 2](./TRIMESTRE%201/3.%20BPMN/Macroproceso%202.PNG)
