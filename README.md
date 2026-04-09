@@ -173,5 +173,5 @@ Está dirigido principalmente al personal administrativo, pero también permitir
 
 ### Macroprocesos
 
-![MacroProceso 1](./TRIMESTRE%201/3.%20BPMN/MacroProceso%201.PNG)
-![MacroProceso 2](./TRIMESTRE%201/3.%20BPMN/Macroproceso%202.PNG)
+![MacroProceso 1](./TRIMESTRE%201/3.%20BPMN/Pedidos.PNG)
+![MacroProceso 2](./TRIMESTRE%201/3.%20BPMN/Pago.PNG)
