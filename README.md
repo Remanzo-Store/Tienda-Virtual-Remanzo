@@ -66,12 +66,12 @@ disminuyendo los errores manuales y potenciando así la atención al cliente.
 Desde el punto de vista formativo del programa, el proyecto permite desplazar las
 competencias relacionadas con:
 
-● Análisis de requerimientos
-● Diseño de bases de datos
-● Desarrollo de aplicaciones web
-● Implementación de arquitectura cliente-servidor
-● Integración de servicios externos (pasarela de pago)-(API)
-● Seguridad y validación de datos
+- Análisis de requerimientos
+- Diseño de bases de datos
+- Desarrollo de aplicaciones web
+- Implementación de arquitectura cliente-servidor
+- Integración de servicios externos (pasarela de pago)-(API)
+- Seguridad y validación de datos
 
 Finalmente, el desarrollo del proyecto aportará un componente más a la transformación
 digital de la microempresa, como paso para mejorar su competitividad y contribuir a su
@@ -90,10 +90,10 @@ a mejorar la atención del cliente.
 
 ## <span style="color: #10b981;">🎯 5. Objetivos Específicos</span>
 
-● Desarrollar la interfaz web amigable para la consulta y compra de productos.
-● Implementar un módulo administrativo para la gestión de inventario y pedidos.
-● Integrar una pasarela de pago en modo para el procesamiento de pagos.
-● Implementar un sistema de alertas para compras y la existencia de bajo stock.
+- Desarrollar la interfaz web amigable para la consulta y compra de productos.
+- Implementar un módulo administrativo para la gestión de inventario y pedidos.
+- Integrar una pasarela de pago en modo para el procesamiento de pagos.
+- Implementar un sistema de alertas para compras y la existencia de bajo stock.
 
 ---
 
@@ -101,28 +101,28 @@ a mejorar la atención del cliente.
 
 El sistema incluirá los siguientes módulos y funcionalidades:
 
-● Desarrollo de una aplicación web responsive, compatible con múltiples
+- Desarrollo de una aplicación web responsive, compatible con múltiples
 dispositivos.
-● Implementación de mecanismos de autenticación y gestión de usuarios
+- Implementación de mecanismos de autenticación y gestión de usuarios
 (registro e inicio de sesión).
-● Administración de un catálogo digital de productos farmacéuticos y de cuidado
+- Administración de un catálogo digital de productos farmacéuticos y de cuidado
 personal.
-● Módulo de carrito de compras con generación de órdenes de pedido.
-● Integración de pasarela de pagos en entorno de pruebas (sandbox).
-● Panel administrativo para la gestión y control del inventario.
-● Sistema de notificaciones para alertas de stock mínimo y confirmación de
+- Módulo de carrito de compras con generación de órdenes de pedido.
+- Integración de pasarela de pagos en entorno de pruebas (sandbox).
+- Panel administrativo para la gestión y control del inventario.
+- Sistema de notificaciones para alertas de stock mínimo y confirmación de
 pedidos.
-● Implementación de una base de datos relacional para el almacenamiento y
+- Implementación de una base de datos relacional para el almacenamiento y
 gestión de la información.
 
 Las siguientes funcionalidades no serán contempladas en esta fase del proyecto:
 
-● Desarrollo de aplicaciones móviles nativas.
-● Integración con sistemas externos de EPS.
-● Implementación de facturación electrónica certificada bajo normativas de la
+- Desarrollo de aplicaciones móviles nativas.
+- Integración con sistemas externos de EPS.
+- Implementación de facturación electrónica certificada bajo normativas de la
 DIAN.
-● Comercialización de productos sujetos a control especial.
-● Integración con sistemas contables o plataformas ERP de terceros
+- Comercialización de productos sujetos a control especial.
+- Integración con sistemas contables o plataformas ERP de terceros
 
 ---
 
