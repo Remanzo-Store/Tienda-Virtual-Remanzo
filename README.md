@@ -30,144 +30,103 @@ Mediante esta solución, se busca automatizar el control de inventarios, facilit
 
 ## <span style="color: #dc2626;">⚠️ 1. Planteamiento del Problema</span>
 
-La droguería Remansó representa un negocio microempresarial que opera de manera tradicional, donde las ventas se realizan únicamente de forma presencial y el control de inventario se lleva de forma manual o semiautomática. Estas condiciones generan problemas como:
+La droguería Remansó representa un negocio microempresarial que opera de una
+manera tradicional. En las ventas de la droguería se presenta solo de manera
+presencial; para hacer el control de inventario se apela a la gestión manual o
+semiautomática, circunstancias que traen problemas para el control del stock de los
+productos. Existen riesgos de escasez, de caducidad de productos, se cometen errores
+de registro en las ventas logradas y no se está en la posibilidad de ampliar la forma de
+vender.
 
-- Dificultad en el control de stock  
-- Riesgo de escasez o vencimiento de productos  
-- Errores en el registro de ventas  
-- Limitaciones en la expansión del negocio  
-
-Además, la ausencia de una plataforma digital impide a los clientes consultar productos, verificar disponibilidad o realizar pedidos en línea, lo que reduce la competitividad frente a grandes cadenas farmacéuticas.
+A la situación anterior, es importante agregar que no contar con una solución que sea
+digital no le permite a los clientes consultar productos, comprobar la disponibilidad o
+hacer pedidos en línea, lo cual le resta competitividad al negocio con respecto a las
+grandes cadenas de farmacias que sí cuentan con un sistema que es tecnológico.
+En un escenario donde la transformación digital es clave para la sostenibilidad de las
+empresas, se hace necesario construir una solución que sea técnica, con el fin de
+generar la automatización y el control del inventario. Permitirá gestionar la venta y
+ampliar el alcance en la forma de comercializar sus productos que tiene esta droguería.
 
 ---
 
 ## <span style="color: #3b82f6;">❓ 2. Pregunta Problema</span>
 
-¿Cómo desarrollar una plataforma web que permita transformar la gestión de inventario y ventas de la droguería Remansó, optimizando sus procesos administrativos y ampliando su alcance comercial?
+¿Cómo desarrollar una plataforma web que optimice la gestión de inventario y ventas de
+la Droguería Remansó, mejorando sus procesos administrativos y ampliando sus
+canales de comercialización?
 
 ---
 
 ## <span style="color: #059669;">📖 3. Justificación</span>
 
-El desarrollo de **Remanso FarmaTech** responde a la necesidad de implementar una solución tecnológica que contribuya a la modernización de la droguería Remansó, mejorando el control de inventarios, reduciendo errores manuales y optimizando la atención al cliente.
+La atención que se le da al desarrollo de Remanso FarmaTech responde a la necesidad
+de poner en práctica una solución tecnológica que pueda contribuir a la modernización
+de la gestión de la droguería Remansó, optimizando el control de inventarios,
+disminuyendo los errores manuales y potenciando así la atención al cliente.
+Desde el punto de vista formativo del programa, el proyecto permite desplazar las
+competencias relacionadas con:
 
-Desde el enfoque formativo del SENA, este proyecto permite aplicar competencias en:
+● Análisis de requerimientos
+● Diseño de bases de datos
+● Desarrollo de aplicaciones web
+● Implementación de arquitectura cliente-servidor
+● Integración de servicios externos (pasarela de pago)-(API)
+● Seguridad y validación de datos
 
-- Análisis de requerimientos  
-- Diseño de bases de datos  
-- Desarrollo de aplicaciones web  
-- Arquitectura cliente-servidor  
-- Integración de APIs (pasarela de pago)  
-- Seguridad y validación de datos  
-
-Asimismo, fortalece la transformación digital de una microempresa, mejorando su competitividad y sostenibilidad.
+Finalmente, el desarrollo del proyecto aportará un componente más a la transformación
+digital de la microempresa, como paso para mejorar su competitividad y contribuir a su
+sostenibilidad en un entorno local cada vez más difícil.
 
 ---
 
 ## <span style="color: #10b981;">🎯 4. Objetivo General</span>
 
-Desarrollar un sistema web para la droguería Remansó que permita gestionar el inventario y las ventas en línea, optimizando los procesos administrativos y mejorando la atención al cliente.
+Desarrollar un sistema web para la droguería Remansó que le permita gestionar el
+inventario y las ventas en línea, mejorando los procesos administrativos y contribuyendo
+a mejorar la atención del cliente.
+
 
 ---
 
 ## <span style="color: #10b981;">🎯 5. Objetivos Específicos</span>
 
-- Diseñar el modelo de datos para productos, inventario y pedidos  
-- Desarrollar una interfaz web intuitiva para la compra de productos  
-- Implementar un módulo administrativo  
-- Integrar una pasarela de pago en modo sandbox  
-- Implementar un sistema de alertas (compras y stock bajo)  
+● Desarrollar la interfaz web amigable para la consulta y compra de productos.
+● Implementar un módulo administrativo para la gestión de inventario y pedidos.
+● Integrar una pasarela de pago en modo para el procesamiento de pagos.
+● Implementar un sistema de alertas para compras y la existencia de bajo stock.
 
 ---
 
 ## <span style="color: #6366f1;">📦 6. Alcance del Proyecto</span>
 
-El sistema permitirá:
+El sistema incluirá los siguientes módulos y funcionalidades:
 
-- Control de inventario en tiempo real  
-- Registro y gestión de productos  
-- Generación de pedidos  
-- Organización eficiente de la información  
-- Apoyo en la toma de decisiones  
+● Desarrollo de una aplicación web responsive, compatible con múltiples
+dispositivos.
+● Implementación de mecanismos de autenticación y gestión de usuarios
+(registro e inicio de sesión).
+● Administración de un catálogo digital de productos farmacéuticos y de cuidado
+personal.
+● Módulo de carrito de compras con generación de órdenes de pedido.
+● Integración de pasarela de pagos en entorno de pruebas (sandbox).
+● Panel administrativo para la gestión y control del inventario.
+● Sistema de notificaciones para alertas de stock mínimo y confirmación de
+pedidos.
+● Implementación de una base de datos relacional para el almacenamiento y
+gestión de la información.
 
-Está dirigido principalmente al personal administrativo, pero también permitirá interacción con clientes.
+Las siguientes funcionalidades no serán contempladas en esta fase del proyecto:
 
----
-
-## <span style="color: #ef4444;">🚫 7. Limitaciones</span>
-
-### 7.1 Alcance Funcional Incluido
-
-- ✔ Aplicación web responsive  
-- ✔ Registro e inicio de sesión  
-- ✔ Catálogo de productos  
-- ✔ Carrito de compras  
-- ✔ Integración de pagos (sandbox)  
-- ✔ Panel administrativo  
-- ✔ Alertas de stock y pedidos  
-- ✔ Base de datos relacional  
-
----
-
-### 7.2 Exclusiones del Alcance
-
-- ❌ Aplicación móvil nativa  
-- ❌ Integración con EPS  
-- ❌ Facturación electrónica DIAN  
-- ❌ Venta de medicamentos controlados  
-- ❌ Integración con ERP externos  
+● Desarrollo de aplicaciones móviles nativas.
+● Integración con sistemas externos de EPS.
+● Implementación de facturación electrónica certificada bajo normativas de la
+DIAN.
+● Comercialización de productos sujetos a control especial.
+● Integración con sistemas contables o plataformas ERP de terceros
 
 ---
 
-## ⚙️ 8. Requerimientos Funcionales
-
-| ID | Requerimiento |
-|----|-------------|
-| RF-01 | Registro de usuarios |
-| RF-02 | Inicio de sesión |
-| RF-03 | Consulta de productos |
-| RF-04 | Búsqueda de productos |
-| RF-05 | Carrito de compras |
-| RF-06 | Generación de pedidos |
-| RF-07 | Procesamiento de pagos |
-| RF-08 | Actualización de inventario |
-| RF-09 | Gestión de productos (CRUD) |
-| RF-10 | Notificaciones de pedidos y stock |
-
----
-
-## ⚙️ 9. Requerimientos No Funcionales
-
-| ID | Requerimiento |
-|----|-------------|
-| RNF-01 | Seguridad mediante autenticación y HTTPS |
-| RNF-02 | Disponibilidad del sistema ≥ 95% |
-| RNF-03 | Tiempo de respuesta ≤ 3 segundos |
-| RNF-04 | Interfaz amigable (usabilidad) |
-| RNF-05 | Compatibilidad con navegadores |
-| RNF-06 | Escalabilidad del sistema |
-| RNF-07 | Mantenibilidad (arquitectura modular) |
-
----
-
-## 🏗️ 10. Tecnologías Sugeridas
-
-- **Frontend:** Next.js / React  
-- **Backend:** Node.js + Express  
-- **Base de datos:** MySQL / PostgreSQL  
-- **Pagos:** Wompi / Mercado Pago (sandbox)  
-
----
-
-## 🚀 11. Impacto Esperado
-
-- Mejor control del inventario  
-- Reducción de pérdidas  
-- Mayor eficiencia operativa  
-- Incremento en ventas  
-- Transformación digital del negocio  
-
-## 🚀 12. Modelo BPMN
+## <span style="color: #6366f1;">🚀 7. Modelo BPMN</span>
 
 ![Modelo BPMN](./TRIMESTRE%201/3.%20BPMN/Modelo.PNG)
 
